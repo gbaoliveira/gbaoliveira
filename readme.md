@@ -1,1 +1,1 @@
-![el-psy-congroo](https://64.media.tumblr.com/068c060bbdcf220f00b415f79d1f6f15/tumblr_pf5w67n2AZ1sjegseo4_540.gif)
+![el-psy-congroo](https://44.media.tumblr.com/a7984824cc61f2598042c3a6efdcae87/tumblr_peyhfhwL2F1ufsyoco1_540.gif)
