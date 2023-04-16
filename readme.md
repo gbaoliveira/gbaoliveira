@@ -2,7 +2,7 @@
 <img align="center" alt="icon" width="1000" src="https://64.media.tumblr.com/f565dd3f9d37ebaa150cf24a296e0182/tumblr_pagyz8cPfs1qkz08qo1_540.gif">
 <h1 align="center">Hi 👋, I'm Gabriel Antônio</h1>
 <h3 align="center">A developer from Brazil</h3>
-<img align="right" alt="icon" width="400" src="">
+<img align="right" alt="icon" width="400" src="https://imgur.com/a/yDkLRyo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="gbaoliveira" /> </p>
 
