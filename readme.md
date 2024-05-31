@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="gbaoliveira" /> </p>
 
 
-- 🔭 I’m currently working on **small projects at home and school**
+- 🔭 I’m currently working on **small projects at**
 
-- 🌱 I’m currently learning **Javascript, Java, React-Native, Spring-Boot and Game maker**
+- 🌱 I’m currently learning **Javascript, Java, React-Native, C/C++**
 
 - 📫 How to reach me **gbaoliveirasilva@gmail.com**
 
