@@ -1,5 +1,4 @@
 
-<img align="center" alt="icon" width="1000" src="https://i.redd.it/bpxxqqvps4h91.gif">
 <h1 align="center">Hi 👋, I'm Gabriel Antônio</h1>
 <h3 align="center">A developer from Brazil</h3>
 <img align="right" alt="icon" width="300" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif">
